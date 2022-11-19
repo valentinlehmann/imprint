@@ -12,21 +12,21 @@ export function Privacy() {
             <p>Die verwendeten Begriffe sind nicht geschlechtsspezifisch.</p>
             <p>Stand: 19. November 2022</p><h2>Inhaltsübersicht</h2>
             <ul className="index">
-                <li><a className="index-link" href="src/routes/Privacy#m14">Einleitung</a></li>
-                <li><a className="index-link" href="src/routes/Privacy#m3">Verantwortlicher</a></li>
-                <li><a className="index-link" href="src/routes/Privacy#mOverview">Übersicht der Verarbeitungen</a></li>
-                <li><a className="index-link" href="src/routes/Privacy#m13">Maßgebliche Rechtsgrundlagen</a></li>
-                <li><a className="index-link" href="src/routes/Privacy#m27">Sicherheitsmaßnahmen</a></li>
-                <li><a className="index-link" href="src/routes/Privacy#m25">Übermittlung von personenbezogenen Daten</a></li>
-                <li><a className="index-link" href="src/routes/Privacy#m24">Datenverarbeitung in Drittländern</a></li>
-                <li><a className="index-link" href="src/routes/Privacy#m12">Löschung von Daten</a></li>
-                <li><a className="index-link" href="src/routes/Privacy#m134">Einsatz von Cookies</a></li>
-                <li><a className="index-link" href="src/routes/Privacy#m225">Bereitstellung des Onlineangebotes und Webhosting</a></li>
-                <li><a className="index-link" href="src/routes/Privacy#m182">Kontakt- und Anfragenverwaltung</a></li>
-                <li><a className="index-link" href="src/routes/Privacy#m136">Präsenzen in sozialen Netzwerken (Social Media)</a></li>
-                <li><a className="index-link" href="src/routes/Privacy#m15">Änderung und Aktualisierung der Datenschutzerklärung</a></li>
-                <li><a className="index-link" href="src/routes/Privacy#m10">Rechte der betroffenen Personen</a></li>
-                <li><a className="index-link" href="src/routes/Privacy#m42">Begriffsdefinitionen</a></li>
+                <li><a className="index-link" href="#m14">Einleitung</a></li>
+                <li><a className="index-link" href="#m3">Verantwortlicher</a></li>
+                <li><a className="index-link" href="#mOverview">Übersicht der Verarbeitungen</a></li>
+                <li><a className="index-link" href="#m13">Maßgebliche Rechtsgrundlagen</a></li>
+                <li><a className="index-link" href="#m27">Sicherheitsmaßnahmen</a></li>
+                <li><a className="index-link" href="#m25">Übermittlung von personenbezogenen Daten</a></li>
+                <li><a className="index-link" href="#m24">Datenverarbeitung in Drittländern</a></li>
+                <li><a className="index-link" href="#m12">Löschung von Daten</a></li>
+                <li><a className="index-link" href="#m134">Einsatz von Cookies</a></li>
+                <li><a className="index-link" href="#m225">Bereitstellung des Onlineangebotes und Webhosting</a></li>
+                <li><a className="index-link" href="#m182">Kontakt- und Anfragenverwaltung</a></li>
+                <li><a className="index-link" href="#m136">Präsenzen in sozialen Netzwerken (Social Media)</a></li>
+                <li><a className="index-link" href="#m15">Änderung und Aktualisierung der Datenschutzerklärung</a></li>
+                <li><a className="index-link" href="#m10">Rechte der betroffenen Personen</a></li>
+                <li><a className="index-link" href="#m42">Begriffsdefinitionen</a></li>
             </ul>
             <h2 id="m3">Verantwortlicher</h2><p>Valentin Lehmann<br/>Wolfratshauser Straße 60<br/>82049 Pullach im
             Isartal<br/>Deutschland
@@ -176,7 +176,7 @@ export function Privacy() {
                 (wobei dadurch auch die Funktionalität unserer Online-Dienste eingeschränkt sein kann). Ein Widerspruch
                 gegen die Verwendung von Cookies zu Online-Marketing-Zwecken kann auch über die Websites <a
                     href="https://optout.aboutads.info" target="_blank">https://optout.aboutads.info</a> und <a
-                    href="src/routes/Privacy"
+                    href="https://www.youronlinechoices.com/"
                     target="_blank">https://www.youronlinechoices.com/</a> erklärt werden.</p>
             <p><strong>Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:</strong></p>
             <ul className="m-elements">
@@ -243,7 +243,7 @@ export function Privacy() {
                                                                       target="_blank">https://www.hetzner.com</a>; <strong>Datenschutzerklärung:</strong>
                     <a href="https://www.hetzner.com/de/rechtliches/datenschutz"
                        target="_blank">https://www.hetzner.com/de/rechtliches/datenschutz</a>; <strong>Auftragsverarbeitungsvertrag:</strong>
-                    <a href="src/routes/Privacy"
+                    <a href="https://docs.hetzner.com/de/general/general-terms-and-conditions/data-privacy-faq/"
                        target="_blank">https://docs.hetzner.com/de/general/general-terms-and-conditions/data-privacy-faq/</a>.
                 </li>
             </ul>
@@ -337,7 +337,7 @@ export function Privacy() {
                 <li><strong>Snapchat: </strong>Soziales Netzwerk; <strong>Dienstanbieter:</strong> Snap Inc., 3000 31st
                     Street, Santa Monica, California 90405 USA; <strong>Rechtsgrundlagen:</strong> Berechtigte
                     Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); <strong>Website:</strong> <a
-                        href="src/routes/Privacy"
+                        href="https://www.snapchat.com/"
                         target="_blank">https://www.snapchat.com/</a>; <strong>Datenschutzerklärung:</strong> <a
                         href="https://www.snap.com/de-DE/privacy/privacy-policy"
                         target="_blank">https://www.snap.com/de-DE/privacy/privacy-policy</a>, Cookie-Richtlinie: <a
@@ -436,7 +436,7 @@ export function Privacy() {
                     Auswerten, das Speichern, das Übermitteln oder das Löschen.
                 </li>
             </ul>
-            <p className="seal"><a href="src/routes/Privacy"
+            <p className="seal"><a href="https://datenschutz-generator.de/?l=de"
                                    title="Rechtstext von Dr. Schwenke - für weitere Informationen bitte anklicken."
                                    target="_blank" rel="noopener noreferrer nofollow">Erstellt mit kostenlosem
                 Datenschutz-Generator.de von Dr. Thomas Schwenke</a></p>

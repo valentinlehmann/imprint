@@ -10,6 +10,7 @@ export function Imprint() {
             Dieses Impressum gilt für folgende Webpräsenzen
             <ul>
                 <li>https://*.valentinlehmann.de</li>
+                <li>https://*.lastdoorright.de</li>
             </ul>
             Dieses Impressum gilt für folgende mobile Apps
             <ul>

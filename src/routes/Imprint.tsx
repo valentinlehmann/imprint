@@ -5,7 +5,7 @@ export function Imprint() {
             <h2 id="m46">Diensteanbieter</h2>
             <p>Valentin Lehmann<br/>Wolfratshauser Straße 60<br/>82049 Pullach im Isartal<br/>Deutschland</p>
             <h2 id="m56">Kontaktmöglichkeiten</h2>
-            <p>E-Mail-Adresse: <a href="mailto:info@valentinlehmann.de">info@valentinlehmann.de</a><br />Telefon: +49 89 75998596</p>
+            <p>E-Mail-Adresse: <a href="mailto:info@valentinlehmann.de">info@valentinlehmann.de</a><br />Telefon: +49 89 75998594</p>
             <h2 id="m46">Geltungsbereich</h2>
             Dieses Impressum gilt für folgende Webpräsenzen
             <ul>

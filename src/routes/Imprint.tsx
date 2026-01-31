@@ -15,6 +15,7 @@ export function Imprint() {
             Dieses Impressum gilt für folgende mobile Apps
             <ul>
                 <li>PRM-App und die dazugehörigen Seiten des Apple-App-Store und des Google-Play-Store</li>
+                <li>Pagrr und die dazugehörigen Seiten des Apple-App-Store</li>
             </ul>
             <h2 id="m174">Online-Streitbeilegung (OS)</h2>
             <p>Online-Streitbeilegung: Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung
